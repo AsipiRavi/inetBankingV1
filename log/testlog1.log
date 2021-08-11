@@ -1,0 +1,232 @@
+2021-08-09 16:25:46,099 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 16:25:49,887 [main] INFO inetBanking - set credentials successful
+2021-08-09 16:25:51,368 [main] INFO inetBanking - click login successful
+2021-08-09 16:25:53,124 [main] INFO inetBanking - set customer info successful
+2021-08-09 16:25:54,277 [main] INFO inetBanking - click submit successful
+2021-08-09 16:25:57,302 [main] INFO inetBanking - customer addition successful
+2021-08-09 16:25:57,303 [main] INFO inetBanking - Test successful
+2021-08-09 16:26:14,374 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 16:26:18,202 [main] INFO inetBanking - set credentials successful
+2021-08-09 16:26:19,466 [main] INFO inetBanking - click login successful
+2021-08-09 16:26:21,200 [main] INFO inetBanking - set customer info successful
+2021-08-09 16:26:22,379 [main] INFO inetBanking - click submit successful
+2021-08-09 16:26:25,407 [main] INFO inetBanking - customer addition successful
+2021-08-09 16:26:25,408 [main] INFO inetBanking - Test successful
+2021-08-09 16:43:08,367 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 16:43:12,246 [main] INFO inetBanking - set credentials successful
+2021-08-09 16:43:13,491 [main] INFO inetBanking - click login successful
+2021-08-09 16:43:15,191 [main] INFO inetBanking - set customer info successful
+2021-08-09 16:43:16,581 [main] INFO inetBanking - click submit successful
+2021-08-09 16:43:19,648 [main] INFO inetBanking - customer addition successful
+2021-08-09 16:43:19,650 [main] INFO inetBanking - Test successful
+2021-08-09 16:43:58,574 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 17:48:46,654 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 17:48:51,828 [main] INFO inetBanking - set username successful
+2021-08-09 17:48:51,979 [main] INFO inetBanking - set password successful
+2021-08-09 17:48:53,446 [main] INFO inetBanking - click login 
+2021-08-09 17:48:53,447 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:48:56,478 [main] INFO inetBanking - login test successful
+2021-08-09 17:48:57,596 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:49:02,061 [main] INFO inetBanking - set username successful
+2021-08-09 17:49:02,163 [main] INFO inetBanking - set password successful
+2021-08-09 17:49:02,610 [main] INFO inetBanking - click login 
+2021-08-09 17:49:02,611 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:49:05,615 [main] INFO inetBanking - login test failed
+2021-08-09 17:49:07,253 [main] INFO inetBanking - set username successful
+2021-08-09 17:49:07,361 [main] INFO inetBanking - set password successful
+2021-08-09 17:49:07,804 [main] INFO inetBanking - click login 
+2021-08-09 17:49:07,805 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:49:10,817 [main] INFO inetBanking - login test failed
+2021-08-09 17:49:12,605 [main] INFO inetBanking - set username successful
+2021-08-09 17:49:12,705 [main] INFO inetBanking - set password successful
+2021-08-09 17:49:13,930 [main] INFO inetBanking - click login 
+2021-08-09 17:49:13,931 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:49:16,944 [main] INFO inetBanking - login test successful
+2021-08-09 17:49:17,776 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:49:23,060 [main] INFO inetBanking - set username successful
+2021-08-09 17:49:23,163 [main] INFO inetBanking - set password successful
+2021-08-09 17:49:23,600 [main] INFO inetBanking - click login 
+2021-08-09 17:49:23,601 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:49:26,614 [main] INFO inetBanking - login test failed
+2021-08-09 17:52:40,541 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 17:52:46,181 [main] INFO inetBanking - set username successful
+2021-08-09 17:52:46,373 [main] INFO inetBanking - set password successful
+2021-08-09 17:52:48,003 [main] INFO inetBanking - click login 
+2021-08-09 17:52:48,004 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:52:51,032 [main] INFO inetBanking - login test successful
+2021-08-09 17:52:52,077 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:52:56,486 [main] INFO inetBanking - set username successful
+2021-08-09 17:52:56,620 [main] INFO inetBanking - set password successful
+2021-08-09 17:52:57,107 [main] INFO inetBanking - click login 
+2021-08-09 17:52:57,107 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:53:00,118 [main] INFO inetBanking - login test failed
+2021-08-09 17:53:01,785 [main] INFO inetBanking - set username successful
+2021-08-09 17:53:01,883 [main] INFO inetBanking - set password successful
+2021-08-09 17:53:02,383 [main] INFO inetBanking - click login 
+2021-08-09 17:53:02,383 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:53:05,399 [main] INFO inetBanking - login test failed
+2021-08-09 17:53:07,123 [main] INFO inetBanking - set username successful
+2021-08-09 17:53:07,241 [main] INFO inetBanking - set password successful
+2021-08-09 17:53:08,482 [main] INFO inetBanking - click login 
+2021-08-09 17:53:08,483 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:53:11,514 [main] INFO inetBanking - login test successful
+2021-08-09 17:53:12,628 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:53:17,094 [main] INFO inetBanking - set username successful
+2021-08-09 17:53:17,200 [main] INFO inetBanking - set password successful
+2021-08-09 17:53:17,661 [main] INFO inetBanking - click login 
+2021-08-09 17:53:17,662 [main] INFO inetBanking - sleep : 3secs
+2021-08-09 17:53:20,673 [main] INFO inetBanking - login test failed
+2021-08-09 17:53:22,683 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 17:53:26,670 [main] INFO inetBanking - set credentials successful
+2021-08-09 17:53:27,961 [main] INFO inetBanking - click login successful
+2021-08-09 17:53:29,797 [main] INFO inetBanking - set customer info successful
+2021-08-09 17:53:31,042 [main] INFO inetBanking - click submit successful
+2021-08-09 17:53:34,054 [main] INFO inetBanking - customer addition successful
+2021-08-09 17:53:34,055 [main] INFO inetBanking - Test successful
+2021-08-09 17:55:40,219 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 17:55:43,547 [main] INFO inetBanking - url open successful
+2021-08-09 17:55:43,713 [main] INFO inetBanking - set username successful
+2021-08-09 17:55:43,847 [main] INFO inetBanking - set password successful
+2021-08-09 17:55:45,077 [main] INFO inetBanking - click login successful
+2021-08-09 17:55:45,093 [main] INFO inetBanking - login successful
+2021-08-09 17:55:45,842 [main] INFO inetBanking - close browser successful
+2021-08-09 17:55:47,202 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 17:55:51,148 [main] INFO inetBanking - set credentials successful
+2021-08-09 17:55:52,409 [main] INFO inetBanking - click login successful
+2021-08-09 17:55:54,226 [main] INFO inetBanking - set customer info successful
+2021-08-09 17:55:55,906 [main] INFO inetBanking - click submit successful
+2021-08-09 17:55:58,956 [main] INFO inetBanking - customer addition successful
+2021-08-09 17:55:58,957 [main] INFO inetBanking - Test successful
+2021-08-09 23:31:42,289 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 23:31:46,367 [main] INFO inetBanking - url open successful
+2021-08-09 23:31:46,655 [main] INFO inetBanking - set username successful
+2021-08-09 23:31:46,812 [main] INFO inetBanking - set password successful
+2021-08-09 23:31:48,105 [main] INFO inetBanking - click login successful
+2021-08-09 23:31:48,130 [main] INFO inetBanking - login successful
+2021-08-09 23:31:49,265 [main] INFO inetBanking - close browser successful
+2021-08-09 23:31:50,761 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 23:31:54,704 [main] INFO inetBanking - set credentials successful
+2021-08-09 23:31:56,009 [main] INFO inetBanking - click login successful
+2021-08-09 23:31:58,045 [main] INFO inetBanking - set customer info successful
+2021-08-09 23:31:59,243 [main] INFO inetBanking - click submit successful
+2021-08-09 23:32:02,283 [main] INFO inetBanking - customer addition successful
+2021-08-09 23:32:02,284 [main] INFO inetBanking - Test successful
+2021-08-09 23:57:05,714 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 23:57:08,784 [main] INFO inetBanking - url open successful
+2021-08-09 23:57:09,002 [main] INFO inetBanking - set username successful
+2021-08-09 23:57:09,163 [main] INFO inetBanking - set password successful
+2021-08-09 23:57:10,453 [main] INFO inetBanking - click login successful
+2021-08-09 23:57:10,481 [main] INFO inetBanking - login successful
+2021-08-09 23:57:11,610 [main] INFO inetBanking - close browser successful
+2021-08-09 23:57:12,841 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-09 23:57:16,641 [main] INFO inetBanking - set credentials successful
+2021-08-09 23:57:18,107 [main] INFO inetBanking - click login successful
+2021-08-09 23:57:19,891 [main] INFO inetBanking - set customer info successful
+2021-08-09 23:57:21,035 [main] INFO inetBanking - click submit successful
+2021-08-09 23:57:24,228 [main] INFO inetBanking - customer addition successful
+2021-08-09 23:57:24,236 [main] INFO inetBanking - Test successful
+2021-08-10 00:04:27,607 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-10 00:04:31,291 [main] INFO inetBanking - url open successful
+2021-08-10 00:04:31,491 [main] INFO inetBanking - set username successful
+2021-08-10 00:04:31,651 [main] INFO inetBanking - set password successful
+2021-08-10 00:04:32,936 [main] INFO inetBanking - click login successful
+2021-08-10 00:04:32,965 [main] INFO inetBanking - login successful
+2021-08-10 00:04:34,044 [main] INFO inetBanking - close browser successful
+2021-08-10 00:04:35,717 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-10 00:04:39,319 [main] INFO inetBanking - set credentials successful
+2021-08-10 00:04:40,741 [main] INFO inetBanking - click login successful
+2021-08-10 00:04:42,565 [main] INFO inetBanking - set customer info successful
+2021-08-10 00:04:43,824 [main] INFO inetBanking - click submit successful
+2021-08-10 00:04:46,847 [main] INFO inetBanking - customer addition successful
+2021-08-10 00:04:46,847 [main] INFO inetBanking - Test successful
+2021-08-10 11:15:46,135 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-10 11:15:49,636 [main] INFO inetBanking - url open successful
+2021-08-10 11:15:49,804 [main] INFO inetBanking - set username successful
+2021-08-10 11:15:49,912 [main] INFO inetBanking - set password successful
+2021-08-10 11:15:51,126 [main] INFO inetBanking - click login successful
+2021-08-10 11:15:51,148 [main] INFO inetBanking - login successful
+2021-08-10 11:15:52,225 [main] INFO inetBanking - close browser successful
+2021-08-10 11:15:53,442 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-10 11:15:56,791 [main] INFO inetBanking - set credentials successful
+2021-08-10 11:15:57,981 [main] INFO inetBanking - click login successful
+2021-08-10 11:15:59,573 [main] INFO inetBanking - set customer info successful
+2021-08-10 11:16:00,768 [main] INFO inetBanking - click submit successful
+2021-08-10 11:16:03,924 [main] INFO inetBanking - customer addition successful
+2021-08-10 11:16:03,925 [main] INFO inetBanking - Test successful
+2021-08-10 11:19:54,120 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-10 11:19:57,253 [main] INFO inetBanking - url open successful
+2021-08-10 11:19:57,386 [main] INFO inetBanking - set username successful
+2021-08-10 11:19:57,475 [main] INFO inetBanking - set password successful
+2021-08-10 11:19:58,743 [main] INFO inetBanking - click login successful
+2021-08-10 11:19:58,770 [main] INFO inetBanking - login successful
+2021-08-10 11:19:59,995 [main] INFO inetBanking - close browser successful
+2021-08-10 11:20:01,137 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-10 11:20:06,313 [main] INFO inetBanking - set username successful
+2021-08-10 11:20:06,402 [main] INFO inetBanking - set password successful
+2021-08-10 11:20:07,775 [main] INFO inetBanking - click login 
+2021-08-10 11:20:07,775 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:20:10,812 [main] INFO inetBanking - login test successful
+2021-08-10 11:20:15,068 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:20:19,410 [main] INFO inetBanking - set username successful
+2021-08-10 11:20:19,499 [main] INFO inetBanking - set password successful
+2021-08-10 11:20:19,925 [main] INFO inetBanking - click login 
+2021-08-10 11:20:19,926 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:20:22,938 [main] INFO inetBanking - login test failed
+2021-08-10 11:20:24,531 [main] INFO inetBanking - set username successful
+2021-08-10 11:20:24,631 [main] INFO inetBanking - set password successful
+2021-08-10 11:20:25,082 [main] INFO inetBanking - click login 
+2021-08-10 11:20:25,083 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:20:28,091 [main] INFO inetBanking - login test failed
+2021-08-10 11:20:29,495 [main] INFO inetBanking - set username successful
+2021-08-10 11:20:29,585 [main] INFO inetBanking - set password successful
+2021-08-10 11:20:30,713 [main] INFO inetBanking - click login 
+2021-08-10 11:20:30,714 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:20:33,731 [main] INFO inetBanking - login test successful
+2021-08-10 11:20:34,672 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:20:39,122 [main] INFO inetBanking - set username successful
+2021-08-10 11:20:39,211 [main] INFO inetBanking - set password successful
+2021-08-10 11:20:39,665 [main] INFO inetBanking - click login 
+2021-08-10 11:20:39,665 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:20:42,681 [main] INFO inetBanking - login test failed
+2021-08-10 11:36:12,061 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-10 11:36:15,749 [main] INFO inetBanking - url open successful
+2021-08-10 11:36:15,953 [main] INFO inetBanking - set username successful
+2021-08-10 11:36:16,080 [main] INFO inetBanking - set password successful
+2021-08-10 11:36:17,353 [main] INFO inetBanking - click login successful
+2021-08-10 11:36:17,367 [main] INFO inetBanking - login successful
+2021-08-10 11:36:18,140 [main] INFO inetBanking - close browser successful
+2021-08-10 11:36:19,531 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-10 11:36:24,889 [main] INFO inetBanking - set username successful
+2021-08-10 11:36:24,983 [main] INFO inetBanking - set password successful
+2021-08-10 11:36:26,635 [main] INFO inetBanking - click login 
+2021-08-10 11:36:26,636 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:36:29,663 [main] INFO inetBanking - login test successful
+2021-08-10 11:36:30,659 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:36:35,342 [main] INFO inetBanking - set username successful
+2021-08-10 11:36:35,439 [main] INFO inetBanking - set password successful
+2021-08-10 11:36:35,877 [main] INFO inetBanking - click login 
+2021-08-10 11:36:35,877 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:36:38,893 [main] INFO inetBanking - login test failed
+2021-08-10 11:36:40,589 [main] INFO inetBanking - set username successful
+2021-08-10 11:36:40,678 [main] INFO inetBanking - set password successful
+2021-08-10 11:36:41,129 [main] INFO inetBanking - click login 
+2021-08-10 11:36:41,130 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:36:44,142 [main] INFO inetBanking - login test failed
+2021-08-10 11:36:46,006 [main] INFO inetBanking - set username successful
+2021-08-10 11:36:46,103 [main] INFO inetBanking - set password successful
+2021-08-10 11:36:47,473 [main] INFO inetBanking - click login 
+2021-08-10 11:36:47,474 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:36:50,490 [main] INFO inetBanking - login test successful
+2021-08-10 11:36:52,088 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:36:56,532 [main] INFO inetBanking - set username successful
+2021-08-10 11:36:56,622 [main] INFO inetBanking - set password successful
+2021-08-10 11:36:57,043 [main] INFO inetBanking - click login 
+2021-08-10 11:36:57,044 [main] INFO inetBanking - sleep : 3secs
+2021-08-10 11:37:00,051 [main] INFO inetBanking - login test failed
+2021-08-10 11:37:01,149 [main] INFO inetBanking - implicit wait : 10secs
+2021-08-10 11:37:04,906 [main] INFO inetBanking - set credentials successful
+2021-08-10 11:37:06,091 [main] INFO inetBanking - click login successful
+2021-08-10 11:37:07,560 [main] INFO inetBanking - set customer info successful
+2021-08-10 11:37:08,671 [main] INFO inetBanking - click submit successful
+2021-08-10 11:37:11,684 [main] INFO inetBanking - customer addition successful
+2021-08-10 11:37:11,685 [main] INFO inetBanking - Test successful

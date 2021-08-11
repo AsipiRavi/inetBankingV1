@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 63.772 sec <<< FAILURE! - in TestSuite
+LoginDDT(com.inetBanking.testCases.TC_LoginDDT_002)  Time elapsed: 5.237 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.inetBanking.testCases.TC_LoginDDT_002.LoginDDT(TC_LoginDDT_002.java:36)
+
+LoginDDT(com.inetBanking.testCases.TC_LoginDDT_002)  Time elapsed: 5.253 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.inetBanking.testCases.TC_LoginDDT_002.LoginDDT(TC_LoginDDT_002.java:36)
+
+LoginDDT(com.inetBanking.testCases.TC_LoginDDT_002)  Time elapsed: 4.946 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.inetBanking.testCases.TC_LoginDDT_002.LoginDDT(TC_LoginDDT_002.java:36)
+
