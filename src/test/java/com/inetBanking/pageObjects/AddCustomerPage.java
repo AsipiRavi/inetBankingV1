@@ -51,6 +51,9 @@ public class AddCustomerPage {
 	@FindBy(how=How.NAME, using="sub")
 	WebElement bSubmit;
 	
+	@FindBy(how=How.XPATH, using="//*[@id=\"customer\"]/tbody/tr[4]/td[2]")
+	WebElement tCustomerId;
+	
 	public void clickAddNewCustomer() {
 		lAddNewCustomer.click();
 	}
@@ -99,6 +102,10 @@ public class AddCustomerPage {
 
 	public void clickSubmit() {
 		bSubmit.click();
+	}
+	
+	public String getCustomerID() {
+		return tCustomerId.getText();
 	}
 
 }

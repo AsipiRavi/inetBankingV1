@@ -58,7 +58,7 @@ public class TC_LoginDDT_002 extends BaseClass{
 //		}
 //	}
 	
-	@DataProvider(name="LoginData") // must specify name as this would be required testmethod
+	@DataProvider(name="LoginData") // must specify name as this will be required in test method where you want to use data
 	String [][] getData() throws IOException // to get excel data 
 	{
 		String Path = System.getProperty("user.dir")+"/src/test/java/com/inetBanking/testData/LoginData.xlsx";

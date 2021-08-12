@@ -14,8 +14,10 @@
 		<!-- <parameter name="browser" value="firefox" /> -->
 		<classes>
 			<class name="com.inetBanking.testCases.TC_LoginTest_001" /> 
-			<class name="com.inetBanking.testCases.TC_LoginDDT_002" /> 
+			<!-- <class name="com.inetBanking.testCases.TC_LoginDDT_002" />  -->
 			<class name="com.inetBanking.testCases.TC_AddCustomerTest_003"/>
+			<class name="com.inetBanking.testCases.TC_EditCustomerTest_004"/>
+			<class name="com.inetBanking.testCases.TC_DeleteCustomerTest_005"/>
 
 
 		</classes>
